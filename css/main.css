@@ -39,6 +39,7 @@ body{
   color: white;
   float: left;
   font-weight: bold;
+  height: 32px;
 }
 
 .topnav .icon {
